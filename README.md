@@ -44,7 +44,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## ☕ Usando crud-Breeze
 
-Para usar o crud-Breeze>, siga estas etapas:
+Para usar o crud-Breeze, siga estas etapas:
 
 - Realizar o download do projeto - https://github.com/juliosn/crud-Breeze/
 - Colocar o projeto no diretório 'xampp/htdocs' - Exemplo: C:/xampp/htdocs/
