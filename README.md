@@ -6,56 +6,51 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/juliosn/scheduling-services_CRUD?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/juliosn/scheduling-services_CRUD?style=for-the-badge)
 
-<h2>Página Inicial (Dashboard sem login)</h2>
+<h2>Homepage (Dashboard without login)</h2>
 <img src="https://github.com/juliosn/crud-Breeze/assets/99426563/1dbbbf37-3f91-4c08-a02c-eaad7b1dc7c9">
 
-<h2>Cadastro</h2>
+<h2>Registration</h2>
 <img src="https://github.com/juliosn/crud-Breeze/assets/99426563/ea258ca4-4416-4ee5-a637-a0eca4745c14">
 
 <h2>Login</h2>
 <img src="https://github.com/juliosn/crud-Breeze/assets/99426563/4a40194a-dab7-4566-b3b8-ab06ba4d68b6">
 
-<h2>Página Inicial do usuário (Dashboard com login)</h2>
+<h2>User's homepage (Dashboard with login)</h2>
 <img src="https://github.com/juliosn/crud-Breeze/assets/99426563/84b7a373-cb17-4404-9765-05cb845bcc6c">
 
-<h2>Cadastrar/Editar Cliente</h2>
+<h2>Register/Edit Client</h2>
 <img src="https://github.com/juliosn/crud-Breeze/assets/99426563/fd35a4ca-a3e9-499b-91cb-bd0dc1646246">
 
-<h2>Consultar Cliente</h2>
+<h2>List Client</h2>
 <img src="https://github.com/juliosn/crud-Breeze/assets/99426563/15e951ea-ed76-4452-a636-3672b3976683">
 
-<h2>Editar dados do perfil</h2>
+<h2>Edit profile's data</h2>
 <img src="https://github.com/juliosn/crud-Breeze/assets/99426563/d9ec2583-abf7-4a5a-958d-632fce64486f">
 
+> Academic project carried out in 2023 that consists of the creation of a website with CRUD (Create, Read, Update and Delete) using the Laravel framework with the implementation of the Breeze authentication package, thus bringing registration/login features to the system.
 
 
+## 💻 Prerequisites
 
+Before you begin, make sure you've met the following requirements:
 
+- Using version 9 of laravel
+- Have at least PHP 8.0 (or higher) installed
 
-> Projeto acadêmico realizdo em 2023 que consiste na criação de um site com CRUD (Create, Read, Update and Delete) utilizando o framework Laravel com a implementação do pacote de autenticação Breeze, trazendo assim os recursos de cadastro/login para o sistema.
+## ☕ Using crud-breeze
 
+To use crud-Breeze, follow these steps:
 
-## 💻 Pré-requisitos
-
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
-
-- Utilizar a versão 9 do laravel
-- Ter instalado no minímo o PHP 8.0 (ou acima disso)
-
-## ☕ Usando crud-Breeze
-
-Para usar o crud-Breeze, siga estas etapas:
-
-- Realizar o download do projeto - https://github.com/juliosn/crud-Breeze/
-- Colocar o projeto no diretório 'xampp/htdocs' - Exemplo: C:/xampp/htdocs/
-- Acessar o diretório do projeto com o prompt de comando
-- Utilizar o comando - composer install
-- Renomear o arquivo do projeto '.env.example' para '.env'
-- Utilizar o comando - composer update
-- Utilizar o comando - php artisan migrate - desde que o banco já esteja criado no phpmyadmin
-- Utilizar o comando - npm install
-- Utilizar o comando - npm run dev 
-- Em outro terminal - rodar o comando php artisan serve
+- Download the project - https://github.com/juliosn/crud-Breeze/
+- Place the project in the directory 'xampp/htdocs' - Example: C:/xampp/htdocs/
+- Access the project directory with the command prompt
+- Use the - composer install command
+- Rename project file '.env.example' to '.env'
+- Use the - composer update command
+- Use the command - php artisan migrate - as long as the database is already created in phpmyadmin
+- Use the - npm install command
+- Use the - npm run dev command 
+- In another terminal - use the command php artisan serve
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
